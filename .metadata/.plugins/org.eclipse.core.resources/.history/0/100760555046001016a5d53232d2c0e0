@@ -1,0 +1,12 @@
+package poo;
+
+import exercicio.Carro;
+
+public class Principal {
+	public static void main(String[] args) {
+	
+		Carro meuCarro = new Carro();
+		
+		
+	}
+}

@@ -1,0 +1,19 @@
+package laco_repeticao;
+
+public class LacoWhile {
+
+	public static void main(String[] args) {
+		
+		// Loop infinito
+//		while (true) {
+//			System.out.println("Kleber");
+//		}
+		
+		int numero = 1;
+		while(numero <= 10) {
+			System.out.println(numero);
+		}
+
+	}
+
+}

@@ -1,0 +1,15 @@
+INDEX VERSION 1.134+C:\AulaNoite13052025\.metadata\.plugins\org.eclipse.jdt.core
+735705145.index
+1012373843.index
+1865797976.index
+4268920458.index
+2848971904.index
+1625334195.index
+1818812942.index
+1045482921.index
+380158462.index
+967706393.index
+2340699823.index
+2644687792.index
+594045628.index
+1473199623.index

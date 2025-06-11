@@ -1,0 +1,35 @@
+package exercicio;
+
+import java.util.Scanner;
+
+public class Jokenpo {
+
+	public static void main(String[] args) {
+		/*
+		  Crie um jogo simples de Pedra, Papel e Tesoura. 
+		  O jogador escolhe uma opção
+		  (Pedra, Papel, Tesoura), 
+		  o computador escolhe aleatoriamente uma opção 
+		  e o programa determina o vencedor.
+		  
+		  Regras:
+		  -> Pedra ganha da Tesoura 
+		  -> Tesoura ganha do Papel 
+		  -> Papel ganha da Pedra
+		 */
+
+		Scanner scan = new Scanner(System.in);
+
+		System.out.println("Escolha uma opção:");
+		System.out.println("1 - Pedra");
+		System.out.println("2 - Papel");
+		System.out.println("3 - Tesoura");
+		
+		int escolhaJogador = scan.nextInt();
+		
+		
+		
+
+	}
+
+}

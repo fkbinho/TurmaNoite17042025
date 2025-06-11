@@ -1,0 +1,11 @@
+
+public class Teste {
+	public static void main(String[] args) {
+		double valor = 370; // Valor original
+		double x = 370.0 / 100; 
+		valor = valor % 100;
+		System.out.println(x);
+		System.out.println(valor);
+	}
+
+}

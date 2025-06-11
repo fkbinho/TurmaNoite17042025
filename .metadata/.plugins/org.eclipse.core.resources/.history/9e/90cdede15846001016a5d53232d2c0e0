@@ -1,0 +1,15 @@
+package poo;
+
+public class Carro {
+	String marca;
+	String modelo;
+	int ano;
+	String cor = "Preto";
+	
+	void exibirDados() {
+		System.out.println("Marca: " + marca);
+        System.out.println("Modelo: " + modelo);
+        System.out.println("Ano: " + ano);
+        System.out.println("Cor: " + cor);
+	}
+}

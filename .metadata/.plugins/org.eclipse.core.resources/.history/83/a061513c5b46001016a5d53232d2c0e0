@@ -1,0 +1,32 @@
+package poo;
+
+public class Principal {
+	public static void main(String[] args) {
+		
+		Carro meuCarro = new Carro("BYD");
+        meuCarro.modelo = "KING";
+        meuCarro.ano = 2025;
+        
+        System.out.println("----------");
+        meuCarro.exibirDados();
+        
+        meuCarro.ligar();
+        meuCarro.desligar();
+
+        Carro fabiCarro = new Carro("BMW");
+        fabiCarro.modelo = "i8";
+        fabiCarro.ano = 2015;
+        
+        System.out.println("----------");
+        fabiCarro.exibirDados();
+
+        
+        Carro hebertCarro = new Carro("Ferrari");
+        hebertCarro.modelo = "F8";
+        hebertCarro.ano = 2020;
+        
+        System.out.println("----------");
+        hebertCarro.exibirDados();
+        
+	}
+}

@@ -1,0 +1,9 @@
+
+public class Teste {
+	public static void main(String[] args) {
+		
+		double x = 370.0 / 100; 
+		System.out.println(x);
+	}
+
+}

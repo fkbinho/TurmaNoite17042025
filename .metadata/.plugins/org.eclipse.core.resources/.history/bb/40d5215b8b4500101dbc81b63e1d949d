@@ -1,0 +1,29 @@
+package revisao;
+
+public class LaçoWhile {
+
+	public static void main(String[] args) {
+		
+		// while - testa um condição e executa se for verdadeira
+		/*
+		  while(codicao) { 
+		  	// bloco de código a ser executado se a 
+		  	// condição for verdadeira }
+		 */
+		int contador = 1;
+		while(contador <= 5) {
+			System.out.println("Contando: " + contador);
+		}
+		
+		// do while - executar 1x e depois testa a condição
+		
+		
+		
+		
+		
+		
+		// for 
+
+	}
+
+}
